@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-THEME='lenovo-grub-theme'
+THEME='cse-paina-grub-theme'
 
 # Pre-authorise sudo
 sudo echo
@@ -9,7 +9,7 @@ GRUB_DIR='grub'
 UPDATE_GRUB='update-grub'
 
 echo 'Fetching theme archive'
-wget https://github.com/ds1david/${THEME}/archive/master.zip
+wget https://github.com/mehedirm6244/${THEME}/archive/master.zip
 
 echo 'Unpacking theme'
 unzip master.zip

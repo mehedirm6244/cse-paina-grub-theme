@@ -1,7 +1,3 @@
-## Lenovo GRUB theme
+### Installation:
 
-![](https://i.imgur.com/hiLenzG.png)
-
-### Instalação:
-
-    wget -O - https://github.com/ds1david/lenovo-grub-theme/raw/master/install.sh | bash
+    wget -O - https://github.com/mehedirm6244/cse-paina-grub-theme/raw/master/install.sh | bash
